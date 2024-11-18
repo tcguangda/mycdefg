@@ -2,4 +2,4 @@ FROM supertc/nodepm2alp_jy:latest
 ENV PORT=3000
 RUN chmod 777 /app
 USER 10014
-# 2024/11/18 05:43:11
+# 2024/11/18 08:43:11
